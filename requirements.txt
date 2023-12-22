@@ -1,0 +1,6 @@
+alembic
+sqlalchemy~=2.0.19
+fastapi[all]
+psycopg2-binary
+pydantic~=2.1.1
+asyncpg
