@@ -16,4 +16,10 @@ Simple example of online chat using WebSocket.
 
 Пример работы сервиса:
 
-![ALT TEXT]()
+Первый пользователь:
+
+![ALT TEXT](https://github.com/mrPechen/example_online_chat/blob/main/user_1)
+
+Второй пользователь:
+
+![ALT TEXT](https://github.com/mrPechen/example_online_chat/blob/main/user_2)
